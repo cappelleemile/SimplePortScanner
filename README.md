@@ -17,7 +17,7 @@ SimplePortScanner is a simple Python tool for scanning open ports on a target IP
    ```  
 2. Run the script:  
    ```bash
-   python scanner.py
+   python port_scanner.py
    ```  
 3. Enter an IP or domain and view the results!
 
